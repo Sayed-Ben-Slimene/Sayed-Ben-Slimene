@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/sayed ben slimene" target="blank"><img src="https://img.shields.io/twitter/follow/sayed ben slimene?logo=twitter&style=for-the-badge" alt="sayed ben slimene" /></a> </p>
 
-- 🔭 I’m currently working on [PIDEV_JAVAFX](https://github.com/Sayed-Ben-Slimene/PIDEV_JAVAFX.git)
 
-- 🌱 I’m currently learning **ReactJs,Symfony,PHP,Flutter**
+- 🌱 I’m currently learning **React,Angular,SpringBoot,Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sayedbenslimene?tab=repositories](https://github.com/sayedbenslimene?tab=repositories)
 
