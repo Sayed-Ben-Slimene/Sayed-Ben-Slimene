@@ -29,6 +29,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="167" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 
 ###
@@ -105,6 +107,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sayed-Ben-Slimene/Sayed-Ben-Slimene/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Sayed-Ben-Slimene/Sayed-Ben-Slimene/output/snake.svg](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)" alt="Snake animation" />
 
 ###
